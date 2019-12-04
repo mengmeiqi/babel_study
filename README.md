@@ -1,2 +1,2 @@
 # babel_study
-babel的学习
+babel学习笔记
